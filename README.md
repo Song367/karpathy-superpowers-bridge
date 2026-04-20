@@ -83,6 +83,12 @@ curl -o "${CODEX_HOME:-$HOME/.codex}/skills/karpathy-superpowers-bridge/SKILL.md
   https://raw.githubusercontent.com/Song367/karpathy-superpowers-bridge/main/skills/karpathy-superpowers-bridge/SKILL.md
 ```
 
+This path has been tested successfully in a Codex desktop environment using:
+
+```text
+~/.codex/skills/karpathy-superpowers-bridge/
+```
+
 ### Step 3: Restart Codex
 
 Start a new Codex session after installation so the skill can be discovered.

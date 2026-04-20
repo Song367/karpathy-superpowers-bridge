@@ -83,6 +83,12 @@ curl -o "${CODEX_HOME:-$HOME/.codex}/skills/karpathy-superpowers-bridge/SKILL.md
   https://raw.githubusercontent.com/Song367/karpathy-superpowers-bridge/main/skills/karpathy-superpowers-bridge/SKILL.md
 ```
 
+这个路径已经在一套 Codex 桌面环境里实际验证可用，使用的是：
+
+```text
+~/.codex/skills/karpathy-superpowers-bridge/
+```
+
 ### 第三步：重启 Codex
 
 安装完成后，请启动一个新的 Codex 会话，让 skill 被重新发现。
